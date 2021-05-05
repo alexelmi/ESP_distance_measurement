@@ -12,7 +12,7 @@ The next day we put together the components and I loaded the first test sketch o
 You can find it [here](https://github.com/alexelmi/ESP_distance_measurement/tree/main/UltraSonic_Simple).
 
 ## LED blinking test sketch
-You can find it [here](http://domain.de).
+You can find it [here](https://github.com/alexelmi/ESP_distance_measurement/tree/main/LED_Simple).
 
 ## Buzzer peeping test sketch
 You can find it [here](https://github.com/alexelmi/ESP_distance_measurement/tree/main/Buzzer_Simple).
