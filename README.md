@@ -4,7 +4,11 @@ This tiny project I made with my daugther. When she came to me asking for a litt
 
 So I sit down an draw the layout:
 
-![Layout](Layout.png "Layout")
+![STR_View](Screenshots/STR_View.png "STR_View")
+
+![PCB_View](Screenshots/PCB_View.png "PCB_View")
+
+![3D_View](Screenshots/3D_View.png "3D_View")
 
 in Fitzing.
 
