@@ -2,7 +2,7 @@
 
 This tiny project I made with my daugther. When she came to me asking for a little handheld which is peeping and blinking I thought using a ultra sonic sensor could be fun.
 
-So I sit down an draw the layout:
+So I sit down and developed the circuit diagram and the PCB:
 
 ![STR_View](Screenshots/STR_View.png "STR_View")
 
@@ -10,9 +10,9 @@ So I sit down an draw the layout:
 
 ![3D_View](Screenshots/3D_View.png "3D_View")
 
-in Fitzing.
+using KiCAD.
 
-The next day we put together the components and I loaded the first test sketch on the Wemos D1 mini. I have to commit that I didn´t test it before.
+The next day we put together the components and loaded the first test sketch on the Wemos D1 mini. I have to commit that I didn´t test it before.
 
 ## Ultrasonic test sketch
 You can find it [here](https://github.com/alexelmi/ESP_distance_measurement/tree/main/Software/Test_UltraSonic_Simple).
