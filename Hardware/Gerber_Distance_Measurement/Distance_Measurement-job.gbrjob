@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.10-1-10_14)"
     },
-    "CreationDate":  "2021-11-11T14:15:25+01:00"
+    "CreationDate":  "2021-11-11T14:28:07+01:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "Distance_Measurement",
       "GUID": "44697374-616e-4636-955f-4d6561737572",
-      "Revision": "01"
+      "Revision": "02"
     },
     "Size":
     {
