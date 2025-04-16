@@ -1,7 +1,7 @@
 //thanks to https://www.smarthome-tricks.de/esp8266/mit-dem-ultraschallsensor-entfernungen-messen/
 
-const int pinTrigger=D7;
-const int pinEcho=D6; 
+const int pinTrigger=13;
+const int pinEcho=15; 
  
 long duration=0;
 long distanceCM=0; 
