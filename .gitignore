@@ -1,1 +1,6 @@
 .DS_Store
+
+# Compiled host-side test binaries
+Software/Tests/test_distance_logic
+Software/Tests/*.o
+*.dSYM/
